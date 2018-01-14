@@ -58,8 +58,5 @@
     height: 100px;
     background: red;
     position: absolute;
-    top: 50%;
-    height: 100px;
-    margin-top: -50px;
-    margin-left: 50px;
+    transform: translate(50%, 50%);
 }
