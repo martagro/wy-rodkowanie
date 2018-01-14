@@ -21,3 +21,21 @@
     margin-left: 50px;
     margin-top: 50px;
 }
+
+
+
+.blue2 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.red2 {
+    width: 100px;
+    height: 100px;
+    background: red;
+
+}
